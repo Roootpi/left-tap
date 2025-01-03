@@ -19,10 +19,8 @@ console.log(lefttab(123, 6));
 
 # npm
 - package
-
   npmjs.com/package/left-tap/v/1.0.1
 
 - my npm profile
-
   npmjs.com/~rootpye
   
